@@ -4,7 +4,7 @@ I'm a rising third-year computer science student at the University of Washington
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanshiuw) 
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonnyshi625@gmail.com) 
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonnyshi625@gmail.com) 
 
 
 # 💻 Tech Stack:
